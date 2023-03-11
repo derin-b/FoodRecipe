@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Food Recipies</string>
+    <string name="start">START</string>
+    <string name="food_recipes">Food Recipes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="categories">Categories</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat?</string>
+    <string name="random_meal">Random Meal</string>
+    <string name="over_popular_items">Over Popular Meals</string>
+    <string name="category">category</string>
+    <string name="seafood">Seafood</string>
+    <string name="dessert">Dessert</string>
+    <string name="meal_category">Meals Category</string>
+    <string name="choose_an_item_category_to_see_the_popular_meals">Choose an item category to see the popular meals</string>
+    <string name="Seafood">Seafood</string>
+    <string name="meal_image">Meal Image</string>
+    <string name="category_beef">Category : %1s</string>
+    <string name="area">Area : %1s</string>
+
+    <string-array name="category">
+        <item>Seafood</item>
+        <item>Dessert</item>
+        <item>Starter</item>
+        <item>Chicken</item>
+        <item>Lamb</item>
+        <item>Side</item>
+    </string-array>
+</resources>
